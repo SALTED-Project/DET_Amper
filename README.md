@@ -23,6 +23,6 @@ The DET start reading data from geo-json files that contain data for SIGPAC Crop
  This work was supported by the EuropeanCommission CEF Programme by means of the project SALTED "Situation Aware Linked heTerogeneous Enrichment Data" under the Action Number 2020-EU-IA-0274.
 
  ## License
- N/A
+ This material is licensed under the GNU Lesser General Public License v3.0 whose full text may be found at the LICENSE file.
  
     
